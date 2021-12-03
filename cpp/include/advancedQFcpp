@@ -1,0 +1,12 @@
+#ifndef ADVANCEDQFCPP_H
+#define ADVANCEDQFCPP_H
+
+#include "advancedQFcpp_bits/random.hpp"
+#include "advancedQFcpp_bits/eq1.hpp"
+#include "advancedQFcpp_bits/eq2.hpp"
+#include "advancedQFcpp_bits/matrix.hpp"
+#include "advancedQFcpp_bits/fx1.hpp"
+#include "advancedQFcpp_bits/ir.hpp"
+#include "advancedQFcpp_bits/credit.hpp"
+
+#endif

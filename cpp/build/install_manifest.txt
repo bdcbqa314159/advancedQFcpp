@@ -1,0 +1,10 @@
+/usr/local/lib/libadvancedQFcpp.dylib
+/usr/local/include/advancedQFcpp
+/usr/local/include/advancedQFcpp_bits/.DS_Store
+/usr/local/include/advancedQFcpp_bits/eq2.hpp
+/usr/local/include/advancedQFcpp_bits/eq1.hpp
+/usr/local/include/advancedQFcpp_bits/matrix.hpp
+/usr/local/include/advancedQFcpp_bits/ir.hpp
+/usr/local/include/advancedQFcpp_bits/random.hpp
+/usr/local/include/advancedQFcpp_bits/credit.hpp
+/usr/local/include/advancedQFcpp_bits/fx1.hpp
